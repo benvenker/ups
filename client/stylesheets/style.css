@@ -1,0 +1,8 @@
+#counter, #counter-item {
+  width: 300px;
+}
+
+#counter-item p {
+  margin: 5px;
+  width: 200px;
+}
